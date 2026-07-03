@@ -1,4 +1,2 @@
-student-record-management/
-app.py
-requirements.txt
-students.db   (created automatically)
+streamlit
+pandas
